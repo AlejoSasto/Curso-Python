@@ -46,7 +46,3 @@ Este curso está diseñado para llevarte desde los conceptos básicos hasta tema
 
 ### Procesamiento de Datos
 - Manipulación y procesamiento de datos con listas, tuplas y diccionarios
-
-## Estructura del Curso
-
-El curso está organizado en diferentes módulos, cada uno enfocado en un tema específico. A continuación se muestra la estructura de directorios del curso:
